@@ -1,0 +1,38 @@
+#login {
+
+width: 200px;
+height: 30px;
+
+}
+
+#user_name {
+
+width: 300px;
+
+}
+
+#login_page {
+
+background-color: blueviolet;
+
+}
+
+body {
+
+background-color: blue;
+
+}
+
+h4 {
+
+color: purple;
+font-weight: bold;
+padding: 40px;
+    
+}
+
+h1 {
+
+color: purple;
+font-weight: bold;
+}
